@@ -2070,7 +2070,7 @@ body, input, select, textarea {
 /* Form */
 
 	form {
-		color: var(--clr-accent) !important;
+		color: var(--clr-dark) !important;
 		margin: 0 0 2em 0;
 		overflow-x: hidden;
 	}
