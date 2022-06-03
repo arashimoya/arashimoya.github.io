@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets\\css",
+    "\\assets\\js",
+    "\\src\\assets",
+    "\\src\\components",
+    "\\src\\router"
+  ],
+  "SelectedNode": "\\tsconfig.app.json",
+  "PreviewInSolutionExplorer": false
+}
